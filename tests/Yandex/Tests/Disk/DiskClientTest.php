@@ -1,6 +1,6 @@
 <?php
 
-namespace Yandex\Tests\OAuth;
+namespace Yandex\Tests\Disk;
 
 use GuzzleHttp\Client as GuzzleHttpClient;
 use Yandex\Disk\DiskClient;

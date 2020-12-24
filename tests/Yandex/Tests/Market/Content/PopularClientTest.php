@@ -2,7 +2,7 @@
 /**
  * @namespace
  */
-namespace Yandex\Tests\Market;
+namespace Yandex\Tests\Market\Content;
 
 use GuzzleHttp\Psr7\Response;
 use Yandex\Market\Content\Clients\PopularClient;

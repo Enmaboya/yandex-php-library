@@ -5,7 +5,7 @@
  * @namespace
  */
 
-namespace Yandex\Tests\Market\Partner;
+namespace Yandex\Tests\Passport;
 
 use GuzzleHttp\Psr7\Response;
 use Yandex\Passport\PassportClient;

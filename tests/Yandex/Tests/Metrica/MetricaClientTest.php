@@ -8,7 +8,7 @@
 /**
  * @namespace
  */
-namespace Yandex\Tests\Dictionary;
+namespace Yandex\Tests\Metrica;
 
 use GuzzleHttp\Client as GuzzleHttpClient;
 use GuzzleHttp\Psr7\Request;
