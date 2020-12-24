@@ -1,6 +1,6 @@
 {
     "name": "enmaboya/yandex-php-library",
-    "description": "Official Yandex PHP library",
+    "description": "Fork Yandex PHP library",
     "keywords":["yandex","sdk"],
     "type":"library",
     "license": "MIT",
@@ -22,16 +22,8 @@
     },
     "authors": [
         {
-            "name": "NIX Solutions Ltd",
-            "email": "github@nixsolutions.com"
-        },
-        {
-            "name": "Yandex PHP library Contributors",
-            "homepage": "https://github.com/nixsolutions/yandex-php-library/graphs/contributors"
+            "name": "Vitaliy Dubov",
+            "email": "vdubov@simtechdev.org"
         }
-    ],
-    "support": {
-        "issues": "https://github.com/nixsolutions/yandex-php-library/issues",
-        "wiki": "https://github.com/nixsolutions/yandex-php-library/wiki"
-    }
+    ]
 }
